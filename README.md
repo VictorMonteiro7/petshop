@@ -1,4 +1,5 @@
-#petshop
+# Petshop
+
 Projeto feito no módulo do curso Node + Typescript da B7Web
 
 ### Pré-requisitos globais:
